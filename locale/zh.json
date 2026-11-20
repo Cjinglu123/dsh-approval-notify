@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "审批通知",
+    "description": "工具调用在等你确认时弹出系统通知；通知带 DeepSeek Harness 图标，点击可回到应用。"
+  }
+}

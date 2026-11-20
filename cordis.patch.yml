@@ -1,0 +1,7 @@
+- insert:
+    - id: approval-notify
+      name: 'dsh-approval-notify'
+      config:
+        title: DeepSeek Harness
+        whenFocused: skip
+        silent: false

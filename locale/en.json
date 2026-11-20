@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Approval notifications",
+    "description": "Posts a native notification when a tool call waits for your approval. The banner carries the DeepSeek Harness icon and brings the app forward on click."
+  }
+}
